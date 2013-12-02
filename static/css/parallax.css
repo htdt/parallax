@@ -1,0 +1,105 @@
+
+html{
+	height: 100%;
+	overflow: hidden;
+}
+
+body {
+	
+	height: 100%;
+	font-size: 10px;
+	
+}
+
+.disable-hover {
+	pointer-events: none;
+}
+
+/* Параллакс в общем */
+
+*[alt]{
+	bottom: 0px;
+}
+
+
+.unloaded  {
+	overflow: hidden;
+
+}
+.unloaded #parallax {
+	overflow: hidden;
+	position: relative;
+}
+
+.loadBackground,
+.preloaderCont {
+	height : 100%;
+	width: 100%;
+	position: absolute;
+	z-index: 2;
+	left: 0px;
+	top: 0px;
+}
+.loadBackground{
+	
+	background-color: black;
+	display: block;
+}
+
+.preloaderCont {
+
+	text-align: center;
+	background: rgba(0,0,0,.3);
+	
+}
+
+.preloaderCont .ending,
+.preloaderCont .starting {
+	width: 0px;
+}
+
+.preloaderCont img {
+	width: 200px;
+	height: 51px;
+}
+
+
+.preloaderCont .ending,
+.preloaderCont .starting  {
+	overflow: hidden;
+	display: inline-block;
+	top:0px;
+}
+
+.preloaderCont .starting > * {
+	float: right;
+}
+
+.preloaderCont .ending > * {
+	float: left;
+}
+
+/* */
+
+.preloaderCont:after,
+.para-totalCenterAlign:after,
+.para-Aligner:after {
+	content: "";
+	display: inline-block;
+	vertical-align: middle;
+	height: 100%;
+	width: 0px;
+	background: yellow;
+}
+
+.para-vAligner > *,
+.para-totalCenterAlign > *,
+.preloaderCont > *  {
+	
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.para-totalCenterAlign {
+	text-align: center
+}
