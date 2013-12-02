@@ -1,7 +1,7 @@
 Hot Dot Parallax Engine
 =======================
 
-[See it in action](http://hotdot.pro/)
+<a href="http://hotdot.pro/" target="_blank">See it in action</a>
 
 Code example in sample.html
 
@@ -16,7 +16,7 @@ Features
 - Preloader.
 - Hardware acceleration that can be switched on or off depending on the device-OS-browser combination.
 - Deep optimization: you can pause everything in your slide when the user is in the process of scrolling. Greatly enhances the experience and spares battery life on any platform.
-- ["Pointer-events:none"-optimization](http://www.thecssninja.com/javascript/pointer-events-60fps)
+- <a href="http://www.thecssninja.com/javascript/pointer-events-60fps" target="_blank">"Pointer-events:none"-optimization</a>
 
 Adaptivity-special features
 --------
