@@ -24,3 +24,8 @@ Adaptivity-special features
 - Background image size is not fixed! You don't need to calculate anything—just plug in wide image for the background.
 - Want to switch orientation of the slide depending on aspect ratio? Use Resizeable-engine to do it with ease.
 - Proven to work well with touch devices and ready for iOS and Android platforms.
+
+
+Made in <a target="_blank" href="http://hotdot.pro/">Hot Dot</a> by Fyodor Ananiev.
+
+Licensed under <a target="_blank" href="http://www.opensource.org/licenses/mit-license.php">MIT</a>.
