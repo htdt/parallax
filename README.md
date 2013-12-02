@@ -2,6 +2,7 @@ Hot Dot Parallax Engine
 =======================
 
 [See it in action](http://hotdot.pro/)
+
 Code example in sample.html
 
 Features
