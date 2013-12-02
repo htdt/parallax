@@ -26,6 +26,6 @@ Adaptivity-special features
 - Proven to work well with touch devices and ready for iOS and Android platforms.
 
 
-Made in <a target="_blank" href="http://hotdot.pro/">Hot Dot</a> by Fyodor Ananiev.
 
+Made in <a target="_blank" href="http://hotdot.pro/">Hot Dot</a> by Fyodor Ananiev.
 Licensed under <a target="_blank" href="http://www.opensource.org/licenses/mit-license.php">MIT</a>.
