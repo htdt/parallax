@@ -3,7 +3,7 @@ Hot Dot Parallax Engine
 
 <a href="http://hotdot.pro/" target="_blank">See it in action</a>
 
-Code example in sample.html
+Code example in index.html
 
 Features
 --------
